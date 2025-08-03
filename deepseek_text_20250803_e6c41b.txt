@@ -1,0 +1,60 @@
+PORTFOLIO WEBSITE - HTML & CSS
+
+A clean, responsive portfolio website built with pure HTML and CSS to showcase my work and skills as a developer/designer.
+
+FEATURES
+- Fully Responsive Design: Works on all device sizes
+- Modern UI: Clean, minimalist aesthetic
+- Sections:
+  - Hero/Introduction
+  - About Me
+  - Skills/Technologies
+  - Project Gallery
+  - Contact Information
+- CSS Animations: Subtle hover effects and transitions
+- No JavaScript: Pure HTML/CSS implementation
+
+TECHNOLOGIES USED
+- HTML5
+- CSS3 (including Flexbox and CSS Grid)
+- Responsive Design (media queries)
+- CSS Variables for easy theming
+
+PROJECT STRUCTURE
+portfolio/
+├── index.html          # Main HTML file
+├── styles/
+│   ├── main.css        # Primary stylesheet
+│   ├── reset.css       # CSS reset
+│   └── variables.css   # CSS variables
+├── assets/
+│   ├── images/         # All project images
+│   └── fonts/          # Custom fonts if used
+                         # icons
+└── README.md
+
+HOW TO USE
+1. Clone the repository:
+   git clone https://github.com/saidsulayman/Portfolio-Project.git
+2. Open index.html in your browser
+3. To customize:
+   - Edit content in index.html
+   - Modify styles in the CSS files
+   - images in the assets folder
+   - icons
+   - PDF folder
+
+CUSTOMIZATION
+1. Update the index.html with your personal information
+2. Replace placeholder images
+3. Adjust colors in variables.css
+4. Modify project cards in "Work" section
+
+FUTURE IMPROVEMENTS
+- Adding JavaScript for interactivity
+- Light/dark mode toggle
+- Form functionality for contact section
+
+
+Developed by Said Sulayman
+[saidsulayman54@gmail.com] | https://saisulayman-porfolio.netlify.app 
